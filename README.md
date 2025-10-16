@@ -11,6 +11,8 @@ This S7 C/C++ functions allows to parsing data read from Siemens PLC/SINAMICs by
 
 13-Agu-2025 - Added MIT LICENSE, Important building note to fix access violation bug in snap7 before building
 
+16-Oct-2024 - Added Source to Repo, add CMake for better use with other Projekts, apply patch mentioned in `building_note_for_snap7`, add makefile für aarch64 plattform
+
 ## License
 
 The project uses the MIT license. See external LICENSE file in project root.

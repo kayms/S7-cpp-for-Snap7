@@ -12,7 +12,8 @@
 #ifndef S7_H
 #define S7_H
 
-#include "snap7.h"
+#include <string>
+#include "snap7_libmain.h"
 
 using namespace std;
 

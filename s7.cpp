@@ -38,6 +38,7 @@ string S7_GetTxtPLCType (short int plcType)
    case S7_PLC_SINAMICS:
          return "SINAMICS";
   }
+  return "UNKNOWN";
 }
 
 //****************************************************************************
